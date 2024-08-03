@@ -4,7 +4,7 @@ layout: home
 
 hero:
   text: "Coding, What I Like!"
-  tagline: My great project tagline
+  tagline: I can do this all day
   actions:
     - theme: brand
       text: 前端面试集锦
