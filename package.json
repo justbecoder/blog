@@ -16,5 +16,6 @@
     "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "^1.3.1",
     "vitepress-sidebar": "^1.24.1"
-  }
+  },
+  "packageManager": "pnpm@latest"
 }
