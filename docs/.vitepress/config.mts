@@ -5,6 +5,7 @@ import { generateSidebar } from 'vitepress-sidebar'
 export default defineConfig({
   title: "Coding On Way",
   description: "Coding, the thing i like!",
+  base: "/blog/",
   markdown: {
     math: true
   },
