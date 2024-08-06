@@ -48,7 +48,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/examples/markdown-examples' },
+      // { text: 'Examples', link: '/examples/markdown-examples' },
       { text: 'LeetCode', link: '/leetcode' },
       { text: '前端面试集锦', link: '/fe/index' }
     ],

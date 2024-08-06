@@ -10,8 +10,8 @@ hero:
       text: 前端面试集锦
       link: /fe/
     - theme: alt
-      text: API Examples
-      link: /examples/api-examples
+      text: LeetCode Hot 100
+      link: /leetcode/
 
 features:
   - title: Feature A
